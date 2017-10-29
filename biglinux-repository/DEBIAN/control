@@ -1,0 +1,9 @@
+Package: biglinux-repository
+Version: 2017.07-1big4
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:48
+Section: admin
+Priority: optional
+Description: BigLinux repository and key
+
