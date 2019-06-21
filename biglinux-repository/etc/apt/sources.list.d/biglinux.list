@@ -1,1 +1,2 @@
-deb http://biglinux.c3sl.ufpr.br/packages unstable main
+#deb https://repository.biglinux.com.br/packages disco main
+#deb http://biglinux.c3sl.ufpr.br/packages disco main

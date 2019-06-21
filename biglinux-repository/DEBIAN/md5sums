@@ -1,5 +1,4 @@
-2222e84fb48578c4bad0d45817685c28  etc/apt/sources.list.d/biglinux.list
-5e98c0d0b9ab0d4c19ab1b1c9dd85b76  etc/apt/trusted.gpg.d/biglinux2016.asc
-cd528ef3bfb37be5c22e4212a82e30eb  DEBIAN/control
-ab545c4c963316c4c4ce7f982bf1b2b4  DEBIAN/postinst
+86b916503a73c888f13cd41bee7d3cb5  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+9711c7e9fe30a375ec604b90f6d49659  etc/apt/sources.list.d/biglinux.list
+dcb3b98695726799190288d8e0504805  etc/apt/trusted.gpg.d/BigLinux2019.asc
