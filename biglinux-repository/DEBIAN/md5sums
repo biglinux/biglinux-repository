@@ -1,4 +1,4 @@
-86b916503a73c888f13cd41bee7d3cb5  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-9711c7e9fe30a375ec604b90f6d49659  etc/apt/sources.list.d/biglinux.list
+e9df54d8c07affa12035e42ad8dbc70b  DEBIAN/control
+589670c3cf188bc280f46f67efc125a9  etc/apt/sources.list.d/biglinux.list
 dcb3b98695726799190288d8e0504805  etc/apt/trusted.gpg.d/BigLinux2019.asc
