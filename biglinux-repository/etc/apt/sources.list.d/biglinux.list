@@ -1,2 +1,11 @@
-deb http://biglinux.lua.im/packages disco main
-#deb http://biglinux.lua.im/packages disco main
+deb http://biglinux.lua.im/packages focal main
+
+# Alternative 1
+#deb http://mirror.pop-sc.rnp.br/mirror/biglinux/packages focal main
+
+# Alternative 2
+#deb http://biglinux.itsbrasil.net/packages focal main
+
+# Alternative 3
+#deb http://biglinux.c3sl.ufpr.br/packages focal main
+
