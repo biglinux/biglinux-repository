@@ -1,4 +1,4 @@
-deb http://biglinux.lua.im/packages focal main
+deb http://repository.biglinux.com.br/mirror/biglinux/packages focal main
 
 # Alternative 1
 #deb http://mirror.pop-sc.rnp.br/mirror/biglinux/packages focal main
